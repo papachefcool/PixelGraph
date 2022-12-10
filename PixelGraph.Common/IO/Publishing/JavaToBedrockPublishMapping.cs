@@ -829,7 +829,8 @@ namespace PixelGraph.Common.IO.Publishing
             ["assets/minecraft/textures/block/packed_mud"] = "textures/blocks/packed_mud",
             ["assets/minecraft/textures/block/frogspawn"] = "textures/blocks/frogspawn",
             ["assets/minecraft/textures/block/mangrove_leaves"] = "textures/blocks/mangrove_leaves",
-            ["assets/minecraft/textures/block/mangrove_leaves"] = "textures/blocks/mangrove_leaves_opaque",
+            ["assets/minecraft/textures/block/mangrove_leaves_opaque"] = "textures/blocks/mangrove_leaves_opaque",
+            ["assets/minecraft/textures/block/mangrove_planks"] = "textures/blocks/mangrove_planks",
 
             // TODO: candles
 
